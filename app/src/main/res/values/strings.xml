@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextSample</string>
+    <string name="style_text"><u>下線付きテキスト</u>と<font color='#ff0000'>色付き文字</font>と<b>強調文字</b>\nそして改行</string>
+</resources>
